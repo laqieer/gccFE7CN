@@ -1,0 +1,8 @@
+*.gba
+*.o
+*.map
+*.png
+*.sav
+*.sgm
+*.elf
+*.d
